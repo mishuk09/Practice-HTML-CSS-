@@ -1,3 +1,50 @@
-hade{
-    background-color:red ;
-}
+   
+        #div1{
+            background-color: rgb(151, 167, 228);
+            border: 5px solid  yellow;
+            border-radius: 10px;
+            margin-left: 40px;
+            margin-right: 800px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            padding: 20px;
+
+
+        }
+
+        #div2{
+            background-color:rgb(151, 167, 228);
+            border: 5px solid yellow;
+            border-radius: 10px;
+            margin-left: 250px;
+            margin-right: 500px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            padding: 20px;
+        }
+
+        #div3{
+            background-color:rgb(151, 167, 228);
+            border: 5px solid yellow;
+            border-radius: 10px;
+            margin-left: 500px;
+            margin-right: 200px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            padding: 20px;
+
+
+        }
+        .author{
+            color: blue;
+        }
+        .head3{
+            font-size: 2nm;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace
+        }
+
+        .para{
+
+            text-align: center;
+        }
