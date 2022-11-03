@@ -1,7 +1,16 @@
    
+        #hd{
+
+
+            text-align: center;
+            background-color: blueviolet;
+            margin: auto;
+            color: aliceblue;
+        }
+        
         #div1{
             background-color: rgb(151, 167, 228);
-            border: 5px solid  yellow;
+            border-left: 5px solid yellow;
             border-radius: 10px;
             margin-left: 40px;
             margin-right: 800px;
