@@ -3,9 +3,10 @@
 
 
             text-align: center;
-            background-color: blueviolet;
+            background-color:  rgb(141, 2, 2);
             margin: auto;
             color: aliceblue;
+            
         }
         
         #div1{
@@ -56,4 +57,4 @@
         .para{
 
             text-align: center;
-        }
+        }  
