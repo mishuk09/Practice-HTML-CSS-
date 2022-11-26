@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Latest News</title>
+</head>
+<body>
+
+ 
+<a href="https://indiatoday.in" target="blakn"><img src="logo.jpg"></a>"click the logo for main site"
+<hr color="red" size="10" >
+<h2 >Top 5 news headline</h2>
+<ol>
+  <li type="1"></li>
+   <a href="https://indiatoday.in/world/russia-ukraine-war/story/russia-ukraine-war-live-updates-march-17-us-kyiv-moscow-vladimir-putin-zelenskyy-invasion-1926263-2022-03-17" target="blank"> <img src="news.jpg" style="width: 250px;""></a>
+   <li type="2"></li>
+   <a href=" https://indiatoday.in/world/story/un-establishes-formal-ties-with-taliban-governed-afghanistan-1926620-2022-03-17" target="blank"> <img src="news1.JPG" style="width: 250px;""></a>
+   <li type="3"></li>
+   <a href=" https://indiatoday.in/india/story/being-harassed-purposely-tmc-vs-bjp-over-ed-summons-to-abhishek-banerjee-1926632-2022-03-17" target="blank"> <img src="news4.JPG" style="width: 1000px;""></a>
+   <li type="4"></li>
+   <a href="https://www.indiatoday.in/india/story/gujarat-bhagavad-gita-school-syllabus-classes-6-12-congress-aap-1926616-2022-03-17" target="blank"> <img src="news5.JPG" style="width: 1000px;""></a>
+   <li type="5"></li>
+   <a href=" https://www.indiatoday.in/india/story/indian-coast-guard-fifth-offshore-patrol-vessel-saksham-commissioned-in-goa-1926587-2022-03-17" target="blank"> <img src="news6.jpg" style="width: 1000px;""></a>
+
+
+ 
+
+</ol>
+  
+</body>
+</html>
