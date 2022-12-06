@@ -1,0 +1,36 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+.a
+    {
+        background-image: url('./deddd.jpg');
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        color: beige;
+        font-family: monospace;
+       
+        text-align: center;
+        justify-content: center;
+        position: relative;
+        display:flex;
+    }
+ h1   
+      {
+
+         font-size: 50px;
+         margin-top: 21%;
+         z-index: 1;
+    }
+
+
+ .c   {
+        background: linear-gradient(to top left,rgb(22, 22, 173),red);
+        width: 100%;
+         height:100%;
+        opacity: .5;
+        position: absolute;
+ 
+    }
