@@ -1,0 +1,146 @@
+ .a
+        {
+         font-family: monospace;
+         font-variant: small-caps;
+         text-align: center;
+         font-size:  3.125em;
+
+        }
+ .b
+      {
+         font-variant: small-caps;
+         text-align: center;
+      }
+
+  
+  .A
+         {
+         border: 5px solid red;
+         font-family: Arial;
+         display:inline-block;
+         margin: 10px 10px;
+         padding: 5px 5px;
+          font-family: monospace;
+         }
+.B
+        {
+
+         border: 5px dashed red;
+         display:inline-block;
+         margin: 10px 10px;
+         padding: 5px 5px;
+          font-family: monospace;
+        }
+
+.C       {
+                 border: 5px double red;
+                display:inline-block;
+                 margin: 10px 10px;
+                padding: 5px 5px;
+                font-family: monospace;
+         }
+
+
+.D 
+          {
+                  border: 5px groove red;
+                 display:inline-block;
+                margin: 10px 10px;
+                padding: 5px 5px;
+                 font-family: monospace;
+          }
+
+.E      {
+        border: 5px inset;
+        border-color: red blue green;
+        display:inline-block;
+        margin: 10px 10px;
+        padding: 5px 5px;
+          font-family: monospace;
+
+        }
+  
+  
+     
+ .F      {
+
+        border: 5px outset;
+        border-color: red blue green;
+        display:inline-block;
+        margin: 10px 10px;
+        padding: 5px 5px;
+          font-family: monospace;
+
+        }
+        
+.P
+        {
+                border: 5px dotted ;
+                border-color: red;
+                display:inline-block;
+                margin: 10px 10px;
+                padding: 5px 5px;
+          font-family: monospace;
+
+        }
+
+.G
+        {
+                border: 5px hidden;
+                border-color: red;
+                display:inline-block;
+                margin: 10px 10px;
+                padding: 5px 5px;
+                 font-family: monospace;
+        }
+
+.h
+        {
+                text-align: center;
+                font-family: monospace;
+                font-size: 3.125em;
+                font-variant: small-caps;
+
+        }
+
+.i      { 
+                border-top:5px solid red; 
+                display:inline-block;
+                margin: 10px 10px;
+                padding: 5px 5px;
+                font-family: monospace;
+
+        }
+
+.j
+        {
+                border-bottom: 5px solid blue;
+                display:inline-block;
+                margin: 10px 10px;
+                padding: 5px 5px;
+                font-family: monospace;
+
+
+        }
+ 
+ .k     {
+                border-left: 5px solid green;
+                display:inline-block;
+                margin: 10px 10px;
+                padding: 5px 5px;
+                font-family: monospace;
+
+        }
+
+ 
+          .l{
+                border-right: 5px solid yellow;
+                display:inline-block;
+                margin: 10px 10px;
+                padding: 5px 5px;
+                font-family: monospace;
+
+        }
+  
+  
+ 
