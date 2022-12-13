@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Page Title</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+  <script src='main.js'></script>
+   <style>
+    .red{
+      background-color: red;
+    }
+    .blue{
+      background-color: blue;
+    }
+    .green{
+      background-color: green;
+    }
+    .red1{
+      background-color: red;
+    }
+    .blue2{
+      background-color: blue;
+    }
+    .green3{
+      background-color: green;
+    }
+
+
+   </style>
+</head>
+<body>
+
+  
+  <section>
+   <div align="right"> Background: <button id="red" >R</button> <button id="blue">B</button> <button id="green">G</button></div>
+    <div align="center">
+    <img   src="logo.png" alt="Rku" height="100px" width="150px" >
+    <h1 align="center">Awesome Online video </h1>
+    </div>
+     </section>
+
+     <section align="center">
+      <div   align="right"> Background: <button id="red1">R</button> <button id="blue1">B</button> <button id="green1">G</button></div>
+      <video id="video" width="320" height="240"  >
+        <source src="video.mp4" type="video/mp4">
+        
+        Your browser does not support the video tag.
+      </video>
+      <div>
+        <button onclick="playVid()" type="button">Play Video</button>
+        <button onclick="pauseVid()" type="button">Pause Video</button><br>
+       </div>
+     </section>
+     <div align="center">
+      <script> 
+        var vid = document.getElementById("video"); 
+        
+        function playVid()
+         { 
+          vid.play(); 
+        } 
+        
+        function pauseVid()
+         { 
+          vid.pause(); 
+        } 
+
+        document.getElementById("red").addEventListener("click",function handelColor{
+       even.target.
+        })
+
+
+
+        </script> 
+
+</div>
+
+
+  
+</body>
+</html>
