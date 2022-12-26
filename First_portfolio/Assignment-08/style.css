@@ -1,0 +1,22 @@
+.box1{
+    height: 200px;
+    width: 200px;
+    border: 2px solid olive;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid olive;
+   
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    border: 2px solid olive;
+    
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    border: 2 px dotted red;
+}
