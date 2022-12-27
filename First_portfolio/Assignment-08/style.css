@@ -62,3 +62,20 @@
     display: flex;
     justify-content: space-between;
  }
+ hr{
+    display: flex;
+    height: 10px;
+    background-color: black;
+ }
+.grid{
+    display: grid;
+    grid-template-columns:  repeat(4,1fr);
+    grid
+     
+}
+.grid-cell{
+    border:1px solid saddlebrown;
+    
+
+
+}
