@@ -1,0 +1,15 @@
+img{
+    height: 300px;
+}
+.photo-d{
+    position: relative;
+    width: 300px;
+}
+.photo{
+    height: 300px;
+    width: 300px;
+    border:1px solid rebeccapurple;
+    position: relative;
+    
+
+}
