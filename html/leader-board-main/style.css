@@ -1,0 +1,20 @@
+/* fonts style */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+
+.div0{
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr;
+
+}
+
+.div0 img{
+    width: 56px;
+    height: 56px;
+}
+.player{
+    display: flex;
+    align-items: center;
+}
