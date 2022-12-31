@@ -63,21 +63,26 @@ body{
 
 .blogs img{
     width: 117px;
+    padding-left: 30px;
     
 }
 .blogs{
     display: flex;
+    padding: 20px;
 }
 
 .blogs h3{
     margin-top: 0px;
     font-size: 15px;
     margin-bottom: 0px;
-    padding-left: 10px;
+    padding-left: 20px;
 }
 .blogs h4{
     font-size: 15px;
     margin-top: 0px;
-    padding-left: 10px;
-
+    padding-left: 20px;
+    font-weight: 500;
+}
+.blogs img22{
+    padding-left: 40px;
 }
