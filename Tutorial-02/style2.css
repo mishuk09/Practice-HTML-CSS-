@@ -1,0 +1,18 @@
+
+
+.hello{
+    text-align: center;
+    margin-top: 80px;
+
+}
+.hello h1{
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(9, 9, 91);
+    font-size: 40px;
+}
+.hello p{
+    margin-bottom: 0px;
+    font-size: 20px;
+}
