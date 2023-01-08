@@ -176,13 +176,14 @@ nav img{
 
 
 .container-img1{
-   border: 1px solid black;
+   border: 1px solid white;
    width: 300px;
-   height: 450px;
+   height: 460px;
    border-radius: 5px;
    padding: 15px 15px 15px 15px ;
    background-color: white;
 }
+
 
  .container-img1 h1{
     margin-top: 0px;
@@ -197,3 +198,308 @@ nav img{
 .action-camera h2{
     font-size: 22px;
 }
+
+
+
+
+
+
+
+.container-img2{
+    border: 1px solid white;
+    width: 300px;
+    height: 460px;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px ;
+    background-color: white;
+ }
+ 
+ 
+  .container-img2 h1{
+     margin-top: 0px;
+     font-size: 26px;
+     
+  }
+ 
+ .action-camera{
+     line-height: 25px;
+ }
+ 
+ .action-camera h2{
+     font-size: 22px;
+ }
+ 
+
+
+
+
+
+ .container-img3{
+    border: 1px solid white;
+    width: 300px;
+    height: 460px;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px ;
+    background-color: white;
+ }
+ 
+ 
+  .container-img3 h1{
+     margin-top: 0px;
+     font-size: 26px;
+     
+  }
+ 
+ .action-camera{
+     line-height: 25px;
+ }
+ 
+ .action-camera h2{
+     font-size: 22px;
+ }
+ 
+
+
+
+
+
+
+
+.container-img4{
+    border: 1px solid white;
+    width: 300px;
+    height: 460px;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px ;
+    background-color: white;
+ }
+ 
+ 
+  .container-img4 h1{
+     margin-top: 0px;
+     font-size: 26px;
+     
+  }
+ 
+ .action-camera{
+     line-height: 25px;
+ }
+ 
+ .action-camera h2{
+     font-size: 22px;
+ }
+ 
+
+
+
+
+
+
+
+.container-img5{
+    border: 1px solid white;
+    width: 300px;
+    height: 460px;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px ;
+    background-color: white;
+ }
+ 
+ 
+  .container-img5 h1{
+     margin-top: 0px;
+     font-size: 26px;
+     
+  }
+ 
+ .action-camera{
+     line-height: 25px;
+ }
+ 
+ .action-camera h2{
+     font-size: 22px;
+ }
+ 
+
+
+
+
+ .container-img6{
+    border: 1px solid white;
+    width: 300px;
+    height: 460px;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px ;
+    background-color: white;
+ }
+ 
+ 
+  .container-img6 h1{
+     margin-top: 0px;
+     font-size: 26px;
+     
+  }
+ 
+ .action-camera{
+     line-height: 25px;
+ }
+ 
+ .action-camera h2{
+     font-size: 22px;
+ }
+ 
+
+
+
+
+
+
+
+.container-img7{
+    border: 1px solid white;
+    width: 300px;
+    height: 460px;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px ;
+    background-color: white;
+ }
+ 
+ 
+  .container-img7 h1{
+     margin-top: 0px;
+     font-size: 26px;
+     
+  }
+ 
+ .action-camera{
+     line-height: 25px;
+ }
+ 
+ .action-camera h2{
+     font-size: 22px;
+ }
+ 
+
+
+
+
+
+
+
+
+.container-img8{
+    border: 1px solid white;
+    width: 300px;
+    height: 460px;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px ;
+    background-color: white;
+ }
+ 
+ 
+  .container-img8 h1{
+     margin-top: 0px;
+     font-size: 26px;
+     
+  }
+ 
+ .action-camera{
+     line-height: 25px;
+ }
+ 
+ .action-camera h2{
+     font-size: 22px;
+ }
+ 
+
+
+
+
+
+
+
+
+.container-img9{
+    border: 1px solid white;
+    width: 300px;
+    height: 460px;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px ;
+    background-color: white;
+ }
+ 
+ 
+  .container-img9 h1{
+     margin-top: 0px;
+     font-size: 26px;
+     
+  }
+ 
+ .action-camera{
+     line-height: 25px;
+ }
+ 
+ .action-camera h2{
+     font-size: 22px;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+/* rating section*/
+
+.rating{
+    line-height: 25px;
+}
+
+
+.description p{
+    font-size: 15px;
+    color: rgb(0, 91, 91);
+}
+.rate {
+    float: left;
+    height: 20px;
+    
+    
+}
+
+.rate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+.rate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:25px;
+    color:#ccc;
+}
+.rate:not(:checked) > label:before {
+    content: ' ★ ';
+}
+ 
+.rate > input:checked ~ label {
+    color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+    color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+    color: #c59b08;
+} 
