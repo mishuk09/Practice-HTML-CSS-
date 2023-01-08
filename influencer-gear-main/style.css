@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Sofia+Sans+Condensed:wght@300&display=swap');
 
 body {
     margin: 0px;
@@ -80,6 +80,9 @@ nav img{
 .headline{
     font-size: 700;
     font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    
 }
 
 .div2{
@@ -126,3 +129,61 @@ nav img{
   padding-top: 4px;
   margin-top: 0px;
 }
+
+.logo-div{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 190px;
+    border-top: 2px solid antiquewhite;
+    border-bottom: 2px solid antiquewhite;
+    width: 940px;
+    text-align: center;
+    justify-content: '';
+     
+    
+}
+
+.logo-div img{
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+
+.div4 h2{
+      text-align: center;
+      justify-content: center;
+      margin-top: 80px;
+      font-size: 35px;
+
+}
+
+.collection{
+    height: 2000px;
+    
+}
+
+.container {
+
+    display: grid;
+    grid-template-columns: repeat(3 ,60px);
+    margin-left: 200px;
+    row-gap: 40px;
+    column-gap: 280px;
+     
+}
+
+
+.container-img1{
+   border: 1px solid black;
+   width: 300px;
+   height: 260px;
+   border-radius: 5px;
+    padding: 10px 10px 10px 10px ;
+}
+
+.container-img2{
+    border: 1px solid black;
+ 
+ }
+ 
