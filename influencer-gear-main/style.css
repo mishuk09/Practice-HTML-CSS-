@@ -4,6 +4,7 @@ body {
     margin: 0px;
     min-height: 100%;
     width: 100%;
+    background-color: rgb(196, 245, 245);
  }
 
 
@@ -177,13 +178,22 @@ nav img{
 .container-img1{
    border: 1px solid black;
    width: 300px;
-   height: 260px;
+   height: 450px;
    border-radius: 5px;
-    padding: 10px 10px 10px 10px ;
+   padding: 15px 15px 15px 15px ;
+   background-color: white;
 }
 
-.container-img2{
-    border: 1px solid black;
- 
+ .container-img1 h1{
+    margin-top: 0px;
+    font-size: 26px;
+    
  }
- 
+
+.action-camera{
+    line-height: 25px;
+}
+
+.action-camera h2{
+    font-size: 22px;
+}
