@@ -1,0 +1,76 @@
+body {
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+ }
+
+
+
+
+
+
+/*  Nav bar starting */ 
+
+
+
+nav h3{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 30px;
+    color:  orangered;
+}
+
+.div1{
+    background-color: #eef3f8;
+}
+.div1 nav{
+    display: flex;
+}
+nav ul li a{
+    text-decoration: none;
+    
+}
+nav ul li{
+    list-style: none;
+    margin-left: 30px;
+    font-weight: 700;
+}
+nav ul{
+    display: flex;
+    margin-top: 35px;
+    margin-left: 250px;
+     
+}
+
+#searchbar{
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+#searchbutton{
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+nav img{
+
+    height: 30px;
+    margin-top: 32px;
+    
+}
+#shopingicon{
+    margin-left: 150px;
+}
+#usericon{
+    margin-left:30px ;
+}
+
+
+
+
+
+
+/* Navbar ending*\
+
+
