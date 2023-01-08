@@ -42,6 +42,8 @@
     background-color: white;
     border-radius: 7px;
     font-size: 17px;
+    padding-left: 20px;
+    border: 1px solid rgb(209, 209, 209);
 }
    
  
@@ -52,6 +54,8 @@
     background-color: white;
     border-radius: 7px;
     font-size: 17px;
+    padding-left: 20px;
+    border: 1px solid rgb(209, 209, 209);
 }
 .home-page2 button{
     margin-top: 20px;
@@ -62,6 +66,7 @@
     border-radius: 7px;
     font-size: 17px;
     color: rgb(0, 119, 119);
+    border: 1px solid rgb(209, 209, 209);
 }
 
 button:hover{

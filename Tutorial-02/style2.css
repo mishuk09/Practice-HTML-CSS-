@@ -1,10 +1,10 @@
 
 body{
-    background-color: ;
+    background-color: whitesmoke;
 }
 .hello{
     text-align: center;
-    margin-top: 80px;
+    margin-top: 60px;
 
 }
 .hello h1{
@@ -33,7 +33,7 @@ body{
 .inputform{
     
 margin-left: 60px;
-margin-top: 50px;
+margin-top: 30px;
 
 
 
@@ -43,9 +43,41 @@ margin-top: 50px;
     padding-left: 20px;
     margin-left: 50px;
     margin-top: 20px;
-    height: 40px;
+    height: 50px;
     font-size: 15px;
     border: none;
-    background-color: antiquewhite;
+    background-color: white;
     border-radius: 7px;
+    border: 1px solid rgb(209, 209, 209);
+}
+
+.inputform p{
+    margin-left: 50px;
+}
+ 
+#file { 
+     justify-content: center;
+     padding-top: 15px;
+     height: 40px;
+     width: 210px;
+}
+
+#button{
+
+    border: 1px solid orange;
+    color: orange;
+    width: 120px;
+    padding-left: 12px;
+}
+#button:hover{
+    color: white;
+    background-color: orange;
+    transition: 0.5s;
+    font-weight: 700;
+
+}
+ 
+ 
+#date{
+    width: 210px;
 }
