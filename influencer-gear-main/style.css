@@ -25,7 +25,7 @@ nav h3{
 }
 
 .div1{
-    background-color: #eef3f8;
+    background-color:  white;
 }
 .div1 nav{
     display: flex;
@@ -75,6 +75,15 @@ nav img{
 
 
 /*  Navbar ending */
+
+
+
+
+
+
+
+
+/*  Home page start */
 
 
 
@@ -131,15 +140,25 @@ nav img{
   margin-top: 0px;
 }
 
+
+
+/*  Homepage ending */
+
+
+
+
+
+
+/*  Logo start */
+
 .logo-div{
     display: flex;
     margin-top: 50px;
     margin-left: 190px;
-    border-top: 2px solid antiquewhite;
-    border-bottom: 2px solid antiquewhite;
+    border-top: 2px solid rgb(44, 37, 27);
+    border-bottom: 2px solid rgb(34, 26, 16);
     width: 940px;
-    text-align: center;
-    justify-content: '';
+    background-color: #FFFFFF;
      
     
 }
@@ -151,6 +170,20 @@ nav img{
 }
 
 
+
+
+/*  Logo End */
+
+
+
+
+/*  Galarry  start */
+
+
+
+
+
+
 .div4 h2{
       text-align: center;
       justify-content: center;
@@ -160,7 +193,7 @@ nav img{
 }
 
 .collection{
-    height: 2000px;
+    height: 1600px;
     
 }
 
@@ -168,9 +201,9 @@ nav img{
 
     display: grid;
     grid-template-columns: repeat(3 ,60px);
-    margin-left: 200px;
-    row-gap: 40px;
-    column-gap: 280px;
+    margin-left: 170px;
+    row-gap: 35px;
+    column-gap: 300px;
      
 }
 
@@ -198,9 +231,6 @@ nav img{
 .action-camera h2{
     font-size: 22px;
 }
-
-
-
 
 
 
@@ -502,4 +532,103 @@ nav img{
 .rate > input:checked ~ label:hover ~ label,
 .rate > label:hover ~ input:checked ~ label {
     color: #c59b08;
-} 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div5{
+    display: flex;
+}
+
+
+
+.div5img{
+    margin-top: 150px;
+    margin-left: 130px;
+}
+
+
+.div5dis{
+    margin-top: 150px;
+    margin-left: 100px;
+    font-weight: 700;
+    font-size: 18px;
+    width: 600px;
+}
+
+.div5dis p{
+    width: 500px;
+}
+
+.div5dis button{
+
+    color: white;
+    background-color: rgb(220, 4, 4);
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    padding: 5px;
+    
+}
+
+
+.div6{
+
+    margin-top: 90px;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(11, 0, 62);
+}
+
+.div6 h2{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    
+    
+
+}
+
+.div6 p{
+    color: white;
+    text-align: center;
+     
+
+}
+#footer-heading{
+    
+    margin-top:30px;
+}
+
+.footer-header0{
+    line-height: 20px;
+}
+
+.small-icon img{
+    width: 20px;
+    background-color: white;
+    margin-left: 10px;
+    border: none;
+    border-radius: 50%;
+     
+      
+
+}
+
+.small-icon{
+    text-align: center;
+  
+     
+}
